@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\there\\source\\repos\\C\u002B\u002BGroupAnagrams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675FB199-70D6-431C-BD5A-90E584BD3F02}|C\u002B\u002BGroupAnagrams.vcxproj|C:\\Users\\there\\source\\repos\\C\u002B\u002BGroupAnagrams\\C\u002B\u002BGroupAnagrams.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{675FB199-70D6-431C-BD5A-90E584BD3F02}|C\u002B\u002BGroupAnagrams.vcxproj|solutionrelative:C\u002B\u002BGroupAnagrams.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C\u002B\u002BGroupAnagrams.cpp",
+              "DocumentMoniker": "C:\\Users\\there\\source\\repos\\C\u002B\u002BGroupAnagrams\\C\u002B\u002BGroupAnagrams.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002BGroupAnagrams.cpp",
+              "ToolTip": "C:\\Users\\there\\source\\repos\\C\u002B\u002BGroupAnagrams\\C\u002B\u002BGroupAnagrams.cpp",
+              "RelativeToolTip": "C\u002B\u002BGroupAnagrams.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T02:34:35.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
